@@ -6,3 +6,7 @@ check it out](https://www.learnenough.com/git-tutorial), and be sure to [join
 the email list](https://www.learnenough.com/#email_list) and
 [follow @learnenough](http://twitter.com/learnenough) on Twitter.
 After finishing *Learn Enough™ Git to Be Dangerous*, you'll
+
+For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
+
